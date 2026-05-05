@@ -135,8 +135,8 @@ Utility scripts are available in the `scripts/` directory:
 
 ## License
 
-[Add your license here]
+MIT License - See LICENSE file for details
 
 ## Support
 
-[Add support contact information]
+For issues, questions, or contributions, please open an issue on the repository.
