@@ -1,4 +1,4 @@
-# JondaX Document Upload Service
+# Document Upload Service
 
 A FastAPI-based document upload service with multi-authentication and Google Cloud Storage integration.
 
